@@ -1,0 +1,92 @@
+ #name1{
+    font-family: monspace;
+    color: #00EAC3 ;
+}
+
+h3{
+    text-align: left;
+}
+
+p{
+    text-align: left;
+    padding: 2px;
+ }
+
+h1{
+    text-align: center;
+    padding: 3px;
+  }
+
+h4{
+    text-align: left;
+}
+
+h5{
+    text-align: left;
+  }
+
+body{
+    background-color: grey;
+    text-align: center;
+    color:#71D6C5;
+
+}
+
+th{
+    padding: 40px;
+}
+
+td{
+    padding: 10px;
+}
+
+table{
+    margin:auto;
+}
+
+.navbar {
+
+    align-items: center;
+    background-image: url(uncrop.jpg);
+    background-size: cover;
+}
+
+.navbar ul li a {
+    color: #2EFF00;
+}
+a {
+    color: #71D6C5 ;
+}
+a:hover {
+    color: black;
+}
+.navbar ul li a:hover {
+    font-size: 25px;
+    transition: .3s;
+    margin-bottom: -25px;
+}
+.navbar ul li u {
+    color: black;
+}
+.tebil img {
+    height: 100px;
+}
+.tebil img:hover {
+    height: 120px;
+    transition:.6s;
+}
+.tebil th:hover {
+    padding: 35px;
+    transition: 1s;
+}
+.meme {
+    height: 69px;
+    width: 169px;
+    float:right;
+    background-color:purple;
+    margin:15px;
+    border: 3px solid white;
+}
+.vroom {
+    margin: auto;
+}
